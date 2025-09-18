@@ -77,5 +77,6 @@ dependencies = [
     "mypy-extensions==1.0.0",
     "neo4j==5.23.1",
     "networkx==3.3",
-    "numpy"    
+    "numpy",
+    "pymilvus>=2.5.15",
 ]

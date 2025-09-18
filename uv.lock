@@ -2160,6 +2160,7 @@ dependencies = [
     { name = "neo4j" },
     { name = "networkx" },
     { name = "numpy" },
+    { name = "pymilvus" },
 ]
 
 [package.metadata]
@@ -2237,6 +2238,7 @@ requires-dist = [
     { name = "neo4j", specifier = "==5.23.1" },
     { name = "networkx", specifier = "==3.3" },
     { name = "numpy" },
+    { name = "pymilvus", specifier = ">=2.5.15" },
 ]
 
 [[package]]
